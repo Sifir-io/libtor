@@ -11,7 +11,7 @@ keywords = ["tor", "daemon"]
 readme = "README.md"
 
 [dependencies]
-libtor-sys = { git: "https://github.com/Sifir-io/libtor-sys.git" }
+libtor-sys = { git= "https://github.com/Sifir-io/libtor-sys.git" }
 libtor-derive = "0.1"
 log = "^0.4"
 
